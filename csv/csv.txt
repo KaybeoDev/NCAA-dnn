@@ -1,1 +1,9 @@
+Special note on CSV files:
 
+I recognise that university names can be inconsistent (i.e. Stephen F Austin vs. Stephen F. Austin vs. SFA).
+
+This is something that I'll eventually remedy! 
+
+Unfortunately, making these names consistent within each year was difficult enough -- data was gathered from multiple sources, and many listed a number of colleges differently.
+To make matters worse, many of these same sources listed colleges/universities differently between different years, adding further layers of messiness.
+While these sources are highly useful, this does make matters difficult when seeking to collect data and make it accessible for analysis -- something I hope the publication of this dataset helps with, even if it's not completely perfect (yet).
