@@ -1,0 +1,3 @@
+Temporary files for game predictions.
+
+These will be consolidated, organised, and properly named in the near future.
